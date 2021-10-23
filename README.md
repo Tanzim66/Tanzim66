@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/lowlighter/metrics">
-    <img src="https://metrics.lecoq.io/Tanzim66?template=classic&achievements=1&followup=1&lines=1&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FToronto">
+    <img src="https://metrics.lecoq.io/Tanzim66?template=classic&config.timezone=America%2FToronto">
   </a>
 </p>
 
