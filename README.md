@@ -24,6 +24,9 @@
   <a href="https://sass-lang.com/">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=">
   </a>
+  <a href="https://www.javascript.com/"> 
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=FFFF00&logo=JavaScript&logoColor=000000&label="> 
+  </a>
     <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
   </a>
