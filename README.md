@@ -40,6 +40,9 @@
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=">
   </a>
+  <a href="https://graphql.org/">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=CC6699&logo=GraphQL&logoColor=FFFFFF&label=">
+  </a>
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
   </a>
